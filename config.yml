@@ -1,0 +1,22 @@
+###########################
+#    ImperioSugests       #
+#                         #
+#   Contato: Coelho#5250  #
+#                         #
+#    Venda proibida       #
+#                         #
+###########################
+
+Configuracoes:
+ TOKEN: "NTY5NjY5MjM4MzE1NTQ4Njkz.XL0A4Q.Zsq4oULfMelErh9dL0au_1486e8"
+ CHANNELID_SUGEST: "569664335153070080" 
+
+Mensagens:
+ DISCORD_SEND: "Sugestao: {msg}"
+ SUGGESTION_SEND: "&e Sua sugestao foi enviada, nossa equipe foi &bnotificada."
+ ALREADY_SEND: "&cVocê já enviou uma sugestão, aguarde ela ser analizada."
+ WRITE_THE_SUGGESTION:
+ - ""
+ - "&eDigite sua sugestao no chat!"
+ - "&7Se quiser cancelar digite 'sair'."
+ - ""
